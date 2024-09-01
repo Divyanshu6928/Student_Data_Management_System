@@ -60,7 +60,7 @@ ID,LastName,FirstName,Gender,Cohort,Year,Grade
 `102,Smith,Jane,F,EE,2022,92.0`
 
 #### **Sample Output**
-Search for a Student:
+`Search for a Student:`
 
 `rust`
 
@@ -88,13 +88,13 @@ Search for a Student:
 
 `Print Students with Grade >= 85:`
 
-`r
+`r`
 
-`Give the grade: 85
+`Give the grade: 85`
 
-`101,John,Doe,M,CS,2023,85.5
+`101,John,Doe,M,CS,2023,85.5`
 
-`102,Jane,Smith,F,EE,2022,92.0
+`102,Jane,Smith,F,EE,2022,92.0`
 
 ### **Dependencies**
 C++ Compiler: A standard C++ compiler like g++ is required to compile the source code.
