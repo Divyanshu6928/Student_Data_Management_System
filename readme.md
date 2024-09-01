@@ -30,6 +30,7 @@ The **Student Data Management System** is a C++ application designed to efficien
 
 ### **File Descriptions**
 **sample.data**: A comma-separated file that stores the student records. Each line represents a student with the following fields: ID, last name, first name, gender, cohort, year, and grade.
+
 **main.cpp**: The main C++ source file that contains the implementation of the entire system.
 
 ## How to Use ??
@@ -37,9 +38,13 @@ The **Student Data Management System** is a C++ application designed to efficien
 **Choose an Option**: The program presents a menu where you can:
 
 **Search for a student by ID.**
+
 **Insert a new student record.**
+
 **Print students based on grade criteria.**
+
 **Traverse the BST to display all students in different orders.**
+
 **Quit the application.**
 #### Input Data Format
 sample.data should contain student records in the following format:
