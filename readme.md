@@ -4,7 +4,6 @@ The **Student Data Management System** is a C++ application designed to efficien
 
 ### **Features**
 **1. Search for a Student**: Find a student record by their UNIQUE ID.
-
 **2. Insert a New Student**: Add a new student record to the system, provided the ID is unique.
 **3. Grade-Based Filtering**: Display students whose grades match certain criteria (greater than, less than, or equal to a specified grade).
 **4. Inorder, Preorder, and Postorder Traversal**: Print all student records by traversing the BST in different orders.
