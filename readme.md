@@ -4,19 +4,28 @@ The **Student Data Management System** is a C++ application designed to efficien
 
 ### **Features**
 **1. Search for a Student**: Find a student record by their UNIQUE ID.
+
 **2. Insert a New Student**: Add a new student record to the system, provided the ID is unique.
+
 **3. Grade-Based Filtering**: Display students whose grades match certain criteria (greater than, less than, or equal to a specified grade).
+
 **4. Inorder, Preorder, and Postorder Traversal**: Print all student records by traversing the BST in different orders.
+
 **5. Persistent Storage**: Student data is stored in and retrieved from a file named *sample.data*.
 
 ### **Project Structure**
 **1. BinTreeElemType**: A class to represent an element in the BST, storing the student's ID and record number.
+
 **2. Node**: A class representing a node in the BST, with pointers to left and right children.
+
 **3. Student**: A class to store the details of a student (ID, name, gender, cohort, year, grade).
 
 ### **Core Functions:**
+
 **1. Binary Search Tree Operations**: Functions to create, insert, search, and traverse the BST.
+
 **2. File Handling**: Functions to build the BST from a file and print student details based on record numbers.
+
 **3. Grade-Based Operations**: Functions to filter and display students based on their grades.
 
 ### **File Descriptions**
