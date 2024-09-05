@@ -53,6 +53,12 @@ sql
 
 ID,LastName,FirstName,Gender,Cohort,Year,Grade
 #### **Example:**
+
+![image](https://github.com/user-attachments/assets/40dd951e-933b-4622-bb48-da33134a3511)
+
+
+
+
 `r`
 
 `101,Doe,John,M,CS,2023,85.5`
@@ -101,5 +107,6 @@ C++ Compiler: A standard C++ compiler like g++ is required to compile the source
 
 ### **Limitations**
 **File Dependency**: The system depends on the sample.data file being present in the same directory.
+
 **Basic Error Handling**: The program handles some errors (e.g., file not found, invalid input), but improvements could be made.
 
