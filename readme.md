@@ -56,51 +56,21 @@ ID,LastName,FirstName,Gender,Cohort,Year,Grade
 
 ![image](https://github.com/user-attachments/assets/40dd951e-933b-4622-bb48-da33134a3511)
 
+**SEARCH**
+
+![image](https://github.com/user-attachments/assets/4af8753e-de83-49af-bae1-c4dba56765ef)
+
+**INORDER TRAVERSAL**
+
+![image](https://github.com/user-attachments/assets/dfd5c9c9-d559-4f9d-9c38-1ac260601490)
+
+**ON BASIS OF GRADE**
+
+![image](https://github.com/user-attachments/assets/9901f874-c163-4a3b-bfd9-650e2685007f)
+
+![image](https://github.com/user-attachments/assets/b696f48c-047c-4bdc-82c0-9beec53417b4)
 
 
-
-`r`
-
-`101,Doe,John,M,CS,2023,85.5`
-
-`102,Smith,Jane,F,EE,2022,92.0`
-
-#### **Sample Output**
-`Search for a Student:`
-
-`rust`
-
-`Give student's ID: 101`
-
-`101,John,Doe,M,CS,2023,85.5`
-
-`Insert a New Student:`
-
-`rust`
-
-`Give student's ID: 103`
-
-`Give Student's lastName: White`
-
-`Give Student's firstName: Alice`
-
-`Give student's gender M/F: F`
-
-`Give Student's cohort: ME`
-
-`Give student's registration year: 2023`
-
-`Give student's grade (0-100): 88.0`
-
-`Print Students with Grade >= 85:`
-
-`r`
-
-`Give the grade: 85`
-
-`101,John,Doe,M,CS,2023,85.5`
-
-`102,Jane,Smith,F,EE,2022,92.0`
 
 ### **Dependencies**
 C++ Compiler: A standard C++ compiler like g++ is required to compile the source code.
