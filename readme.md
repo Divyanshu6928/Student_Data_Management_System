@@ -80,3 +80,6 @@ C++ Compiler: A standard C++ compiler like g++ is required to compile the source
 
 **Basic Error Handling**: The program handles some errors (e.g., file not found, invalid input), but improvements could be made.
 
+## **Sample Data**
+
+![image](https://github.com/user-attachments/assets/41f7e5e5-2089-413a-adaf-6a8860f7640a)
